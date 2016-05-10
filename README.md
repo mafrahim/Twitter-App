@@ -4,4 +4,4 @@ Google drive based Twitter client and archiver using the Google Spreadsheet as d
 Created ~2014
 
 
-![alt tag](https://raw.githubusercontent.com/mafrahim/Twitter-App/master/Screenshot.png)
+![alt tag](https://raw.githubusercontent.com/mafrahim/Twitter-App/master/Screenshot%20.png)
